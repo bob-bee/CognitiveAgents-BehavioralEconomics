@@ -1,0 +1,1 @@
+@article{JONG_TUYLS_VERBEECK_2008, title={Fairness in multi-agent systems}, volume={23}, DOI={10.1017/S026988890800132X}, number={2}, journal={The Knowledge Engineering Review}, author={JONG, STEVEN DE and TUYLS, KARL and VERBEECK, KATJA}, year={2008}, pages={153–180}} <div></div>

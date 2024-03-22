@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Axtell, Robert L.
+PY  - 2007
+DA  - 2007/09/01
+TI  - What economic agents do: How cognition and interaction lead to emergence and complexity
+JO  - The Review of Austrian Economics
+SP  - 105
+EP  - 122
+VL  - 20
+IS  - 2
+AB  - Kohn (The Cato Journal, 24(3):303–339, 2004) has argued that the neoclassical conception of economics—what he terms the “value paradigm”—has experienced diminishing marginal returns for some time. He suggests a new perspective is emerging—one that gives more import to economic processes and less to end states, one that bases behavior less on axioms and more on laboratory experiments. He calls this the “exchange paradigm”. He further asserts that it is the mathematization of economics that is partially at fault for leading the profession down a methodological path that has become something of a dead end. Here I suggest that the nascent research program Kohn has rightly spotted is better understood as distinct from its precursors because it is intrinsically dynamic, permits agent actions out of equilibrium, and treats such actions as occurring within networks. Analyzing economic processes having these characteristics is mathematically very difficult and I concur with Kohn’s appeal to computational approaches. However, I claim it is so-called multi-agent systems and agent-based models that are the way forward within the “exchange paradigm,” and not the cellular automata (Wolfram, A new kind of science, 2002) that Kohn seems to promote. Agent systems are generalizations of cellular automata and support the natural abstraction of individual economic agents as software agents.
+SN  - 1573-7128
+UR  - https://doi.org/10.1007/s11138-007-0021-5
+DO  - 10.1007/s11138-007-0021-5
+ID  - Axtell2007
+ER  - 
