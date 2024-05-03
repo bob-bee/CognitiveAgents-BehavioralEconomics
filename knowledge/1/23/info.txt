@@ -1,5 +1,5 @@
 1. summarize the paper
-
+	The paper emphasizes the importance of fairness in multi-agent systems, identifies key motivations for human fairness, introduces priority awareness, and highlights the potential of descriptive models of human fairness to guide system design.
 
 2. does the paper discuss multi agent systems.
 	Yes, the paper does discuss multi-agent systems. It mentions that many multi-agent systems are designed to interact with humans or to operate on behalf of them, for instance in bargaining. It also points out that agents' behavior should often be aligned with human expectations, as multi-agent systems are intended to operate together with or as a service to humans. The paper emphasizes the importance of studying the fairness in multi-agent systems, especially in problem domains where the allocation of limited resources plays an important role.
