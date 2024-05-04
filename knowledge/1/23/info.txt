@@ -1,11 +1,11 @@
 1. summarize the paper
-
+	The paper emphasizes the importance of fairness in multi-agent systems, identifies key motivations for human fairness, introduces priority awareness, and highlights the potential of descriptive models of human fairness to guide system design.
 
 2. does the paper discuss multi agent systems.
-
+	Yes, the paper does discuss multi-agent systems. It mentions that many multi-agent systems are designed to interact with humans or to operate on behalf of them, for instance in bargaining. It also points out that agents' behavior should often be aligned with human expectations, as multi-agent systems are intended to operate together with or as a service to humans. The paper emphasizes the importance of studying the fairness in multi-agent systems, especially in problem domains where the allocation of limited resources plays an important role.
 
 3. are there any multi agent systems implemnted in the paper
-
+	Yes, the paper discusses the implementation of multi-agent systems. The authors highlight the importance of aligning the behavior of multi-agent systems with human expectations, especially in situations where the systems interact with or operate on behalf of humans, such as in bargaining scenarios. The paper emphasizes the need to consider human fairness and the motivations behind human fairness in the design of multi-agent systems. It also discusses the relevance of modeling priorities in multi-agent research.
 
 4. what programming tools or languages are used to implement these systems.
 
@@ -17,20 +17,24 @@
 
 
 7. does the paper discuss economics or behavioral economics 
+	The paper discusses behavioral economics, specifically in the context of multi-agent systems and human fairness. It highlights how traditional game-theoretical models, which assume perfectly rational and self-interested agents, may not align with human expectations. This discrepancy is addressed by considering human behavior in terms of fairness, which is a key aspect of behavioral economics.
 
 
 8. does the paper analyze any models of economics
+ 	Yes, the paper does analyze models of economics, specifically in the field of behavioral economics and evolutionary game theory. It discusses how standard game theoretical models predict a very selfish outcome in comparison to the fair outcomes reached by human players in various games such as the ultimatum game and the public goods game. Additionally, it mentions the Traveler’s Dilemma, where it was shown that humans can obtain a higher payoff by failing to find the rational solution, i.e., the Nash equilibrium.
 
 
 9. approach used to develop 
+	The approach used to develop the computational model of human fairness for multi-agent systems involved identifying and modeling the motivations for fairness, including inequity aversion and reciprocity. Additionally, a third motivation called "priority awareness" was identified and discussed. The relevance of priorities in modeling agents for multi-agent systems was explored, highlighting the importance of understanding the interactions with the environment and other agents, including humans. The aim was to ensure that multi-agent systems align with human expectations and take fairness into account, as humans are not purely self-interested and strongly care about the fairness of their rewards.
 
 
 10. does the paper discuss artificial intelligence
+	The paper does not explicitly discuss artificial intelligence. It focuses on the modeling of human fairness for multi-agent systems.
 
 
 11. what conclusions can be drawn from the paper
+	the paper emphasizes the importance of fairness in multi-agent systems, identifies and models key motivations for human fairness, introduces the concept of priority awareness, and highlights the potential of descriptive models of human fairness to guide the design of multi-agent systems.
 
 
 12. how were these conclusions justified
-
-
+The conclusions drawn in the paper are justified through a combination of empirical evidence, theoretical frameworks, and expert analysis. Firstly, existing literature in the field of multi-agent systems and fairness establishes the importance of fairness in promoting cooperation and trust among agents. Secondly, psychological research demonstrates that humans are motivated by fairness considerations in decision-making, providing a theoretical basis for modeling human fairness motivations within multi-agent systems. Thirdly, the observation that real-world systems often operate under priority constraints supports the introduction of priority awareness into multi-agent systems, allowing agents to make more informed decisions aligned with human expectations. Finally, by referencing research in social psychology and behavioral economics, the paper argues that descriptive models of human fairness can guide the design of multi-agent systems, creating systems that better align with human values and are thus more likely to be accepted and trusted by users.
