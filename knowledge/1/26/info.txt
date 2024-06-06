@@ -10,7 +10,8 @@
 
 
 4. what programming tools or languages are used to implement these systems.
-	 while the paper does not specify the exact programming tools or languages used for implementing the multi-agent systems, it is likely that a combination of popular AI programming languages (e.g., Python, Java, C++) and simulation frameworks (e.g., NetLogo, MASON, Swarm) were employed to develop and test the socially intelligent AI systems described in the study.
+	 not mentioned
+	 
 
 
 5. what is the programming approach taken  to develop these agents or systems or models or frame works
@@ -18,7 +19,7 @@
 
 
 6. what are the names of the agents
-
+ Deep Q-Network agents, which are a type of artificial intelligence agent trained using reinforcement learning techniques, specifically designed to learn to make decisions in complex environments. These agents are utilized in the study to simulate human-like behaviors such as trust and trustworthiness in the context of non-zero sum games.
 
 7. does the paper discuss economics or behavioral economics 
 	The economic theory used in this study is Game Theory, which deals with decision-making in competitive, cooperative, and non-cooperative situations. Game Theory helps to model the interactions between agents, predict their behavior, and analyze the outcomes of these interactions.
